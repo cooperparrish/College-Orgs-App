@@ -18,4 +18,20 @@ This project will be an app for college organizations to easily schedule and pla
 ### Database / Storage Plan
 -
 
+### Operating Environment 
+-
+-**Build Tool** - 
+-**Repository Hosting** - 
+
+### Additional Software
+-**Obsidian** -
+
+## Getting Started 
+
+### Prerequisites
+-Install 
+
+### Setup Instructions
+1. Clone Repository
+
 
