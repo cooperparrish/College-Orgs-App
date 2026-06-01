@@ -18,11 +18,15 @@ This project will be an app for college organizations to easily schedule and pla
 - **Backend API:** Node.js with NestJS
 
 ### Database / Storage Plan
--
-
+- **Primary Database Ecosystem:** Supabase (Managed PostgreSQL)
+- **Real-Time Data Engine:** Supabase Realtime / Websockets
+- **Object Storage:** Supabase Storage (backed by S3/CDN)
+  
 ### Operating Environment 
 -
-- **Build Tool** - 
+- **Build Tool:** 
+  - **Mobile Client:** Metro Bundler (React Native CLI).
+  - **Dependency Management:** npm or yarn.
 - **Repository Hosting:** Github
 
 ### Additional Software
