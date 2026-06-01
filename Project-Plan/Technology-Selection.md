@@ -10,10 +10,12 @@ This project will be an app for college organizations to easily schedule and pla
 ## Technology Choices 
 
 ### Language 
-- 
+- **Typescript/JavaScript**
+- **SQL**
 
 ### Framework 
--
+- **Frontend Mobile:** React Native
+- **Backend API:** Node.js with NestJS
 
 ### Database / Storage Plan
 -
@@ -21,7 +23,7 @@ This project will be an app for college organizations to easily schedule and pla
 ### Operating Environment 
 -
 - **Build Tool** - 
-- **Repository Hosting** - 
+- **Repository Hosting:** Github
 
 ### Additional Software
 - **Obsidian** -
