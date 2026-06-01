@@ -20,11 +20,11 @@ This project will be an app for college organizations to easily schedule and pla
 
 ### Operating Environment 
 -
--**Build Tool** - 
--**Repository Hosting** - 
+- **Build Tool** - 
+- **Repository Hosting** - 
 
 ### Additional Software
--**Obsidian** -
+- **Obsidian** -
 
 ## Getting Started 
 
